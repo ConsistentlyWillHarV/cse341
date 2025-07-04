@@ -1,0 +1,19 @@
+{
+  "name": "cse341",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConsistentlyWillHarV/cse341.git"
+  },
+  "author": "harvvs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConsistentlyWillHarV/cse341/issues"
+  },
+  "homepage": "https://github.com/ConsistentlyWillHarV/cse341#readme"
+}
